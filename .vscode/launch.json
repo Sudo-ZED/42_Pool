@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/kali/Documents/42_Pool/C00/ex00",
-      "program": "/home/kali/Documents/42_Pool/C00/ex00/build/Debug/outDebug",
+      "cwd": "/home/kali/Documents/42_Pool/C02/ex09",
+      "program": "/home/kali/Documents/42_Pool/C02/ex09/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
