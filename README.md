@@ -57,7 +57,7 @@ Each `ex0X` folder contains source files, tests (where applicable), and notes.
 ## 🧑‍💻 How to Use
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/42_Pool.git
+   git clone https://github.com/Sudo-ZED/42_Pool.git
 
 2. Navigate into any module (e.g., C00) and explore exercises.
 3. Compile using gcc (or your preferred C compiler)
