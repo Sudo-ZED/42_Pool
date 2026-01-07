@@ -22,7 +22,8 @@ void	ft_putnbr(int n)
 	if (n == -2147483648)
 	{
 		ft_putchar('-');
-		ft_putnbr(2147483648);
+		ft_putchar('2');
+		ft_putnbr(147483648);
 		return ;
 	}
 	if (n < 0)
