@@ -1,27 +1,19 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_boolean.h                                       :+:      :+:    :+:   */
+/*   ft_abs.h                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: marvin <marvin@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/01/22 03:44:02 by marvin            #+#    #+#             */
-/*   Updated: 2026/01/22 03:44:02 by marvin           ###   ########.fr       */
+/*   Created: 2026/01/22 03:42:28 by marvin            #+#    #+#             */
+/*   Updated: 2026/01/22 03:42:28 by marvin           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef FT_BOOLEAN_H
-#define FT_BOOLEAN_H
 
-typedef int t_bool;
+#ifndef FT_ABS_H
+#define FT_ABS_H
 
-#define TRUE 1
-#define FALSE 0
-#define EVEN(n) ((n % 2) == 0)
-
-#define EVEN_MSG "I have an even number of arguments.\n"
-#define ODD_MSG "I have an odd number of arguments.\n"
-
-#define SUCCESS 0
+#define ABS(Value) ((Value) < 0 ? -(Value) : (Value))
 
 #endif
