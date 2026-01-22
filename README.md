@@ -17,7 +17,7 @@ This repository documents my journey of revisiting the 42 curriculum’s foundat
 
 ---
 
-## 📖 About the 42 Piscine
+## 📖 About the 42 or 1337 Piscine 
 The **Piscine** is an intensive 4‑week coding bootcamp at [School 42](https://42.fr) designed to test adaptability, persistence, and raw problem‑solving skills. Students dive into **C programming, shell scripting, and algorithms** while practicing rigorous peer‑to‑peer learning.  
 
 By revisiting these projects, I’m not just completing exercises again—I’m refining the way I think, code, and collaborate.  
@@ -78,4 +78,4 @@ If you’re a fellow 42 student, beginner in C, or coding enthusiast, I hope thi
 🚀 Keywords for Discoverability
 42 Piscine, Piscine Reimplementation, School 42, C programming, Algorithms, Computer science fundamentals, Coding bootcamp, Beginner coding exercises, Problem-solving projects, Student portfolio.
 
-💡 Keep coding, keep refining — the Piscine never really ends. 🐬
+💡 Keep coding, keep refining the Piscine never really ends. 🐬
